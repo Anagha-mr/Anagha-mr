@@ -34,7 +34,7 @@ I build LLM, RAG and computer vision systems, from training to deployment. Open 
 
 ## Stack
 
-`Python` `TypeScript` `Java` `C/C++` `PyTorch` `TensorFlow` `FastAPI` `Flask` `React` `Next.js` `Tailwind CSS` `PostgreSQL` `Docker` `Git`
+`Python` `TypeScript` `Java` `C/C++` `PyTorch` `TensorFlow` `FastAPI` `Flask` `React` `Next.js` `Tailwind CSS` `PostgreSQL` `Git/Github`
 
 ## Publication
 
