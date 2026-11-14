@@ -2,8 +2,8 @@
 
 # Anagha MR
 
-Final-year CS (AI & ML) student at RNSIT, Bangalore.
-I build and deploy LLM and vision systems, and I want to point GenAI at threat detection and response.
+Final-year CS (AI & ML) student, Bangalore.
+I build LLM, RAG and computer vision systems, from training to deployment. Open to internships and entry-level jobs.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0d1117?style=for-the-badge&labelColor=7c3aed)](https://portfolio-weld-xi-15.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&labelColor=7c3aed)](https://www.linkedin.com/in/anagha-mr-70b969276)
