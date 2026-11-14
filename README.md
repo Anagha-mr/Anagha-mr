@@ -5,9 +5,9 @@
 Final-year CS (AI & ML) student at RNSIT, Bangalore.
 I build and deploy LLM and vision systems, and I want to point GenAI at threat detection and response.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge)]((https://portfolio-2xtr9v2kv-mranagha2004-3393s-projects.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)]((https://www.linkedin.com/in/anagha-mr-70b969276))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:mr.anagha2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0d1117?style=for-the-badge&labelColor=7c3aed)](https://portfolio-weld-xi-15.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&labelColor=7c3aed)](https://www.linkedin.com/in/anagha-mr-70b969276)
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HI-0d1117?style=for-the-badge&labelColor=7c3aed)](mailto:mr.anagha2004@gmail.com)
 
 </div>
 
